@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "barchart",
+        "displayName": "My Barchart",
+        "guid": "barchart3554DF0BC30545F486E91AA93A5AF707",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "This is my barchart",
+        "supportUrl": "https://academind.com",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Max",
+        "email": "max@max.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
